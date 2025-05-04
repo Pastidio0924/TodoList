@@ -1,0 +1,8 @@
+.todo-item {
+  margin-bottom: 16px; /* Adds space between items */
+}
+
+.todo-completed {
+  text-decoration: line-through;
+  color: #888;
+} 
